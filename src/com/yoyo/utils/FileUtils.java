@@ -1,4 +1,4 @@
-package com.yoyo.utils;
+﻿package com.yoyo.utils;
 
 
 import java.io.BufferedInputStream;
@@ -359,6 +359,3 @@ public class FileUtils {
 		return bytecount;
 	}
 }
-
- 
-ddd
