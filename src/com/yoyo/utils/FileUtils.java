@@ -1,4 +1,4 @@
-﻿package com.yoyo.utils;
+package com.yoyo.utils;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -12,8 +12,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.RandomAccessFile;
 import java.io.Reader;
-
-
+ 
 /**
 * FileUtils: (文件处理类)
 * @author yoyo E-mail:152106619@qq.com
@@ -357,5 +356,7 @@ public class FileUtils {
 		}
 		return bytecount;
 	}
-
 }
+
+ 
+ddd
